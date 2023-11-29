@@ -163,14 +163,14 @@ The competitive nature of online auctions can result in higher prices for seller
 Purpose System
 
 
-The proposed computerized "U Auction" site has made auction process simple. The only
+The proposed computerized online auction system  has made auction process simple. The only
 5 pre-condition is that the user must register and authenticate before he/she can take part in the bidding process. The system uses HTTP forms authentication which creates a session cookie for any signed in user. Through out the span of the session the cookie remains valid until the user logs out.
 
-An auction house needs to have products to auction, so in the proposed system this is done using product registration module. The module is open to user who is registered sellers and they need to authenticate before they register any product. The system controls the closing date by adding 14 days to the submitting date there by restricting the bidding process to go on indefinitely.
+An auction house needs to have products to auction, so in the proposed system this is done using product registration module. The module is open to user who is registered sellers and they need to authenticate before they register antique product. 
 
 Another important module in the proposed project is the "Bidding module ". Here one can see the details of any particular product and also the bidding history. The user can bid on that item by entering any amount greater than or equal to the incremental bid amount. Here also system checks to see whether the user has his credential verified otherwise he/she will be directed to the login/registration page.
 
-The last but the least module is the "Web Administration" module. The module is only open to the web administrator due to security reasons. In this module the administrator can add product categories; this is to avoid rampant creation of categories. The 2nd thing is the option to edit any given product. This will be necessary when some of the details of the product need to be edited for one reason or other. The 3rd and last the closed bid manager where the administrator notifies both the seller and buyer the need to complete the transaction.
+The last but the least module is the "Web Administration" module. The module is only open to the web administrator due to security reasons. In this module the administrator have access to verify product .
 
 There is another module which runs more or less like background process. The function of the module is to close bid of those products whose closing date is less than the current date. The process is automatic and hidden from the web users.
 
