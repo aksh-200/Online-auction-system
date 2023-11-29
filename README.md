@@ -1,7 +1,15 @@
 # Online-auction-system
+Abstract
+The Online Auction System has three main parts: Seller, Buyer, and Admin modules. Sellers can sign up, add products for auction, set prices, end auctions, and answer questions. Buyers can register, bid on products, see descriptions, check seller ratings, rate products and sellers, and ask questions. The Admin module handles system management, including KYC checks, authorization based on government IDs, product verification, and removing fraudulent sellers and buyers. This system ensures a secure and transparent online auction experience for everyone involved
+
+
 
 Introduction:
+Welcome to the Online Auction System, a user-friendly platform designed with three essential modules: Seller, Buyer, and Admin. In this virtual marketplace, sellers can easily register, create accounts, and showcase their products for auction, setting base prices and having control over the auction process.
 
+For sellers, the system offers features like ending auctions, monitoring current bid prices, and engaging with potential buyers by answering their questions. On the buyer's side, the platform enables hassle-free registration, bidding on products, accessing detailed product descriptions, and checking seller ratings for authenticity.
+
+Ensuring the integrity of the system is the Admin module. Admins play a crucial role in authorizing participants through KYC checks, verifying government identity proofs, and ensuring the legitimacy of each product before it goes up for auction. The admin also has the authority to remove any fraudulent sellers and buyers, maintaining a secure and trustworthy online auction environment for all users. Join us in exploring a world of seamless transactions, genuine interactions, and secure online auctions
 Document Purpose:
 
 
@@ -19,110 +27,6 @@ Problem definition
 Creating an online auction system involves building a website or app where people can sell and buy items through bidding. Users should be able to register, list their products for auction, and others can place bids. The system needs to handle secure payments, provide real-time updates on ongoing auctions, and have a way to resolve disputes. It's important to make it user-friendly, secure, and able to handle a large number of users and items.
 
 
-Scope
-Detail scope for online auction system
-
-ChatGPT
-
-ChatGPT
-
-The scope of an online auction system encompasses various functionalities and features that contribute to its overall design and capabilities. Here's a detailed scope for an online auction system:
-
-User Registration and Authentication:
-
-Allow users to create accounts securely.
-
-Implement authentication mechanisms to ensure user identity.
-
-Product Listing:
-
-Enable sellers to list items for auction.
-
-Include fields for item details, images, and starting bid.
-
-Bidding System:
-
-Facilitate the bidding process for buyers.
-
-Implement automatic bid increments and proxy bidding.
-
-Auction Management:
-
-Admin tools for creating, editing, and ending auctions.
-
-Set auction durations, reserve prices, and bidding rules.
-
-Real-Time Updates:
-
-Provide real-time status updates on ongoing auctions.
-
-Notify users of bid changes and auction results.
-
-Payment Integration:
-
-Secure payment gateways for successful transactions.
-
-Support multiple payment methods.
-
-User Dashboards:
-
-Personalized dashboards for users to track auctions, bids, and winnings.
-
-Search and Filters:
-
-Robust search functionality for finding specific items.
-
-Filters for refining search results based on categories, prices, etc.
-
-Security Measures:
-
-Implement encryption for data security.
-
-Fraud detection and prevention mechanisms.
-
-Dispute Resolution:
-
-System for handling disputes between buyers and sellers.
-
-Clear policies and procedures for dispute resolution.
-
-Feedback and Ratings:
-
-Allow users to provide feedback and ratings for each other.
-
-Enhance trust and transparency within the community.
-
-Mobile Responsiveness:
-
-Ensure the system is accessible and user-friendly on various devices.
-
-Scalability:
-
-Design the system to handle a growing number of users and items.
-
-Reporting and Analytics:
-
-Generate reports on auction performance.
-
-Provide analytics for sellers to optimize their listings.
-
-Legal and Compliance:
-
-Ensure compliance with relevant laws and regulations.
-
-Clearly define terms of service for users.
-
-Customer Support:
-
-Implement customer support features for inquiries and issue resolution.
-
-FAQ section to address common user queries.
-
-By defining the scope comprehensively, you set the foundation for a robust online auction system that meets user expectations and business requirements.
-
-￼
-
-You
 
 Scope for online auction system
 
@@ -318,6 +222,21 @@ Admin can verify every product before it goes for auctioning.
 
 Admin can remove fraud Sellers and Buyers.
 
+
+
+
+4.	Non-Functional Requirement:
+
+
+
+•	The website should use professional design, look and feel and color scheme.
+
+•	Users will have no limitations for accessing the application through Internet. The portal being an internet application, it is difficult specify exact number of visitor or users. Hence we will target the system to support multiple users .
+ 
+•	Being a public website, the site must follow general usability guidelines for menus, navigation, colors, links and other actions provided on the screens.
+
+•	The system should be designed in such a manner that user will be able to complete tasks in minimum number of steps.
+.
 
 
 Hardware interface
