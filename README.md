@@ -196,7 +196,7 @@ Seller can set base price for the product added.
 The Seller can end the auction.
 
 The Seller can see the current bid price on the product added.
-
+seller can give answers of buyer questions
 
 
 
@@ -211,6 +211,8 @@ Online Auction System provides the function which allow buyers to bid on product
   bidder can see sellers rating for authenticity 
 
 Bidder can rate the product and seller
+
+buyer can ask questions
 
 3.3 Admin Module
 
