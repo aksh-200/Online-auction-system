@@ -27,6 +27,14 @@ Problem definition
 Creating an online auction system involves building a website or app where people can sell and buy items through bidding. Users should be able to register, list their products for auction, and others can place bids. The system needs to handle secure payments, provide real-time updates on ongoing auctions, and have a way to resolve disputes. It's important to make it user-friendly, secure, and able to handle a large number of users and items.
 
 
+SCOPE 
+ This system is designed as an online web-based application which shall be accessed by any device, either a computer, tablet, iPad, iPhone, mobile phone or PDAs.
+The scope of this application to build a user friendly auctioning website, where user will be able to auctioned any product which is available nearby or anywhere in the world. By using Online Auction management system it will be easy for auctioneer to make an auction and time saving also. By making auction through this application will help to reach maximum of buyers bidding . There will be a feature where bidder and seller can message each other
+
+
+
+
+
 
 Scope for online auction system
 
