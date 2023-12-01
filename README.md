@@ -38,9 +38,7 @@ The scope of this application to build a user friendly auctioning website, where
 
 Scope for online auction system
 
-ChatGPT
 
-ChatGPT
 
 The scope for an online auction system encompasses the various features and functionalities that the system should include. Here's a concise scope:
 
