@@ -220,7 +220,7 @@ Bidder can rate the product and seller
 
 buyer can ask questions
 
-3.3 Admin Module
+3.3 Admin Module:
 
 Online Auction System should provide all functions to admin how to handle the System.
 
