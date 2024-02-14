@@ -1,5 +1,6 @@
 # E-Antique:Online-Auction-System
-Abstract
+
+Abstract:
 The Online Auction System has three main parts: Seller, Buyer, and Admin modules. Sellers can sign up, add products for auction, set prices, end auctions, and answer questions. Buyers can register, bid on products, see descriptions, check seller ratings, rate products and sellers, and ask questions. The Admin module handles system management, including KYC checks, authorization based on government IDs, product verification, and removing fraudulent sellers and buyers. This system ensures a secure and transparent online auction experience for everyone involved
 
 Introduction:
