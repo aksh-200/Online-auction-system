@@ -165,7 +165,6 @@ Modules
 
 
 
-
 Online Auction System consists of three modules described as bel
 
 Seller Module
