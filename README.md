@@ -114,21 +114,12 @@ Frequently Asked Questions (FAQ) section.
 
 By focusing on these aspects, the online auction system can provide a user-friendly, secure, and efficient platform for buying and selling through auctions.
 
-Constraints
-
-
-
+Constraints:
 The choice of the database to use should be considered carefully, since there will be a lot of data traffic and the large amounts of data will also judge the database. A good database will yield speed querying of data.
 
 The browser used should support HTML5 to satisfy user experience.
 
-The device should be enabled with internet
-
-
-
-
-Outcomes
-
+The device should be enabled with internet.
 
 Outcomes:
 Price Discovery:
