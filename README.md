@@ -20,8 +20,7 @@ Aim & Objectives:
 
 The main objective of this project is building a website which will help buyers and sellers 	to participate in auction. Here if suppose some seller or buyer want to use this facility and 	learn how is it possible and how they can use Online Auction System to buy or sell the 	products, they must have knowledge of computer then they can directly register in the site 	and sell or buy the products online.
 
-Problem definition
-
+Problem definition:
 
 Creating an online auction system involves building a website or app where people can sell and buy items through bidding. Users should be able to register, list their products for auction, and others can place bids. The system needs to handle secure payments, provide real-time updates on ongoing auctions, and have a way to resolve disputes. It's important to make it user-friendly, secure, and able to handle a large number of users and items.
 
