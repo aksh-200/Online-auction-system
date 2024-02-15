@@ -147,9 +147,7 @@ The competitive nature of online auctions can result in higher prices for seller
 
 
 
-Purpose System
-
-
+Purpose System:
 The proposed computerized online auction system  has made auction process simple. The only
 5 pre-condition is that the user must register and authenticate before he/she can take part in the bidding process. The system uses HTTP forms authentication which creates a session cookie for any signed in user. Through out the span of the session the cookie remains valid until the user logs out.
 
