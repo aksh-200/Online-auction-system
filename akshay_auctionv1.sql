@@ -17,7 +17,6 @@ INSERT INTO `category` VALUES (1,'antique'),(2,'painting'),(3,'artefact'),(4,'fu
 
 
 
-INSERT INTO `user_table` VALUES (1,1,'Random','Person','random@gmail.com',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'approved',4,'audi','admin','admin@123');
 
 
 INSERT INTO user_table (user_id,user_type_id ,fname,lname,
