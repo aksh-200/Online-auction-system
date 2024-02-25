@@ -23,25 +23,19 @@ The main objective of this project is building a website which will help buyers 
 Problem definition:
 
 Creating an online auction system involves building a website or app where people can sell and buy items through bidding. Users should be able to register, list their products for auction, and others can place bids. The system needs to handle secure payments, provide real-time updates on ongoing auctions, and have a way to resolve disputes. It's important to make it user-friendly, secure, and able to handle a large number of users and items.
-
-
-SCOPE 
+SCOPE:
  This system is designed as an online web-based application which shall be accessed by any device, either a computer, tablet, iPad, iPhone, mobile phone or PDAs.
 The scope of this application to build a user friendly auctioning website, where user will be able to auctioned any product which is available nearby or anywhere in the world. By using Online Auction management system it will be easy for auctioneer to make an auction and time saving also. By making auction through this application will help to reach maximum of buyers bidding . There will be a feature where bidder and seller can message each other
-
 Scope for online auction system:
 The scope for an online auction system encompasses the various features and functionalities that the system should include. Here's a concise scope:
 
 User Management:
 
 User registration and authentication.
-
 User profiles with bidding history.
 
 Product Management:
-
 Item listing with details and images.
-
 Categories for organizing products.
 
 Bidding Mechanism:
@@ -222,9 +216,6 @@ Admin can remove fraud Sellers and Buyers.
 •	Being a public website, the site must follow general usability guidelines for menus, navigation, colors, links and other actions provided on the screens.
 
 •	The system should be designed in such a manner that user will be able to complete tasks in minimum number of steps.
-.
-
-
 Hardware interface
 It is web based product. The hardware on which it resides will be any computer can have
 internet.
