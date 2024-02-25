@@ -6,7 +6,6 @@ The Online Auction System has three main parts: Seller, Buyer, and Admin modules
 Introduction:
 Welcome to the Online Auction System, a user-friendly platform designed with three essential modules: Seller, Buyer, and Admin. In this virtual marketplace, sellers can easily register, create accounts, and showcase their products for auction, setting base prices and having control over the auction process.
 For sellers, the system offers features like ending auctions, monitoring current bid prices, and engaging with potential buyers by answering their questions. On the buyer's side, the platform enables hassle-free registration, bidding on products, accessing detailed product descriptions, and checking seller ratings for authenticity.
-
 Ensuring the integrity of the system is the Admin module. Admins play a crucial role in authorizing participants through KYC checks, verifying government identity proofs, and ensuring the legitimacy of each product before it goes up for auction. The admin also has the authority to remove any fraudulent sellers and buyers, maintaining a secure and trustworthy online auction environment for all users. Join us in exploring a world of seamless transactions, genuine interactions, and secure online auctions
 Document Purpose:
 
