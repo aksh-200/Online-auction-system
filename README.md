@@ -227,5 +227,5 @@ This project is web based model so only browser with internet connection is requ
 user standpoint. This product will utilize various software components for its web based
 functionality. Web server require to host website from developers' standpoint.
 • Frontend: HTMM, CSS, JS
-• Backend: Django
-• Database: MySQQ
+• Backend: Spring Boot using JPA
+• Database: MySQL
